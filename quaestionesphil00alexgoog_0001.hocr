@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesphil00alexgoog_0001.png"; bbox 0 0 5000 5984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 355 616 1853 932">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 355 616 1853 932">
+     <span class='ocr_line' id='line_1_1' title="bbox 545 616 1753 692; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 545 616 1061 688; x_wconf 63' lang='lat' dir='ltr'><strong>HARVARD</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1097 616 1753 692; x_wconf 67' lang='lat' dir='ltr'>DEPOSITORY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 574 736 1717 812; baseline 0.008 -9"><span class='ocrx_word' id='word_1_3' title='bbox 574 736 1013 812; x_wconf 70' lang='lat' dir='ltr'>SPECIAL</span> <span class='ocrx_word' id='word_1_4' title='bbox 1041 736 1717 812; x_wconf 72' lang='lat' dir='ltr'>COLLEC&#39;HON</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 355 852 1853 932; baseline 0.001 0"><span class='ocrx_word' id='word_1_5' title='bbox 355 875 356 886; x_wconf 60' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_6' title='bbox 441 856 697 932; x_wconf 82' lang='lat' dir='ltr'>CIRC</span> <span class='ocrx_word' id='word_1_7' title='bbox 709 852 1169 932; x_wconf 66' lang='lat' dir='ltr'><strong>ULATION</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1205 856 1853 932; x_wconf 73' lang='lat' dir='ltr'><strong>RESTRJCTED</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 348 96 1954 1088">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 348 96 1954 1088">
+     <span class='ocr_line' id='line_1_4' title="bbox 348 96 1954 1088; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 348 96 1954 1088; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 242 5156 722 5860">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 242 5156 722 5860">
+     <span class='ocr_line' id='line_1_5' title="bbox 242 5156 722 5860; baseline 0 124"><span class='ocrx_word' id='word_1_10' title='bbox 242 5156 722 5860; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
